@@ -6,7 +6,7 @@ Projeto em desenvolvimento para treinar criação de aplicação utilizando Spri
 
 Atualmente o projeto encontra-se em fase de expansão de funcionalidades e melhorias no código sendo executado pelo criador deste repositório.
 
-##Projeto em desenvolvimento com:
+## Projeto em desenvolvimento com:
 
 - Java 16
 - Spring Boot 2.5.3
@@ -20,7 +20,7 @@ Atualmente o projeto encontra-se em fase de expansão de funcionalidades e melho
 - Postman para simular requisições http 
 
 
-####Para executar o projeto inicialize os microserviços na seguinte ordem:
+#### Para executar o projeto inicialize os microserviços na seguinte ordem:
 
 1. config-server
 2. server-discovery
